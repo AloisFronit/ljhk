@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:#00FFFF ;
+    border: solid 4px #00FFFF;
+    border-radius: 10px;
+}
+
+h1 i{
+    color: #87CEEB;
+    font-size: 40px
+}
+
+footer p{
+    border: solid 3px #4169E1;
+    border-radius: 5px;
+}
+
+nav a{
+    color: #00BFFF;
+    text-decoration: none;
+    padding: 48px;
+    font-size: 16px
+}
+
+nav{
+    border: solid 3px navy;
+    border-radius: 5px
+}
+
+.jo{
+    background-color: #7FFFD4;
+}
+
+h2{
+    color: blue;
+}
+
+.car{
+    border: solid 2px cyan;
+    border-radius: 5px
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #006400
+}
